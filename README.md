@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+This is Alffy!
+- 😄 Pronouns: they/ye/them
+- 🌱 I’m currently learning Github!! *wild, I know*
+- 📫 find me at alphahydrawrites@gmail.com
 <!--
 **AlffyH/AlffyH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +15,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+
 - ⚡ Fun fact: ...
 -->
